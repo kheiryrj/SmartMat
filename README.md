@@ -11,8 +11,8 @@ sensor_matrix_arduino_2.ino: One of the arduino codes we used to outline our fin
 
 How to run code:
 1. Set up arduino and upload the code to the arduino
-    a. Do NOT open the serial monitor
+    * Do NOT open the serial monitor
 2. Open a terminal
-    a. run python code using the command: python3 sensorMatrixArduino.py
-    b. a window should pop up with the graphic interface
+    - run python code using the command: python3 sensorMatrixArduino.py
+    - a window should pop up with the graphic interface
 3. The mat is ready for use
